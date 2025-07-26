@@ -5,10 +5,15 @@ Simple bash script for daily markdown journaling with automatic Git synchronizat
 ## What It Does
 
 Automated Daily Entries: Creates journal entries with date-based filenames (DD-MM-YYYY.md).
+
 Git Integration: Automatic commits and pushes to your GitHub repository.
+
 Smart File Handling: Opens existing entries for editing or creates new ones.
+
 Activity Logging: Tracks all journal activities in a local log file.
+
 Flexible Editor Support: Uses your preferred editor (defaults to nano).
+
 Empty Entry Protection: Prevents committing empty journal entries.
 
 ## Quick Start
